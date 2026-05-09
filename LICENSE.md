@@ -1,4 +1,4 @@
-
+ultimate Addon for Evernote for macOS - OCR scanning and widgets is the best Evernote for macOS addon, featuring OCR scanning and widgets. Safe, efficient, and optimized for macOS
 
 
 
